@@ -1,13 +1,13 @@
-import React, { Component } from "react";
+import React, { Component } from 'react'
 
 class SecondComponent extends Component {
-    render() {
-      return (
-        <div className="secondComponent">
-          SecondComponent
+  render() {
+    return (
+      <div className="secondComponent">
+        Second Component
         </div>
-      );
-    }
+    )
+  }
 }
 
-export default SecondComponent;
+export default SecondComponent
